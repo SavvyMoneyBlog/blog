@@ -58,3 +58,7 @@ bundle add webrick
 Each custom layout should specify its parent layout in its header, likely until the parent is `default` (which is automatically supplied by the theme)
 
 Make sure the post date/time are not in the future. They won't show up until the site is generated after that date/time.
+
+## AI prompt
+
+> Let's write a personal finance blog. Will you write the [first] post about [topic]?
