@@ -1,4 +1,4 @@
-# Bbundllog
+# Blog
 The Savvy Money Blog
 
 ## Development
