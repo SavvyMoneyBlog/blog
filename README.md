@@ -1,5 +1,5 @@
 # Blog
-The Savvy Money Blog
+[The Savvy Money Blog](https://savvymoneyblog.github.io/blog/)
 
 ## Development
 
